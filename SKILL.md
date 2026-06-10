@@ -3,7 +3,7 @@ name: ssquant-trader-generator
 description: Use when a user wants to turn a natural language trading idea into a persistent, deployable AI Trader Skill. Parses rules, judges automatability, generates code/analysis plans, deploys to SIMNOW via 'ssquant-ai-trader', and finally calls skill_manage to create a permanent, reusable Skill for the specific trader.
 version: 1.0.0
 author: SSQuant Team
-license: MIT
+license: GPL-3.0-only
 metadata:
   hermes:
     tags: [quant, trading, skill-generator, ai-trader, automation, persistent-skills]

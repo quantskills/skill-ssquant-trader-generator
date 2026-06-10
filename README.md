@@ -44,3 +44,7 @@ ssquant-trader-generator/
 2.  委托 `ssquant-ai-trader` 部署策略到 SIMNOW。
 3.  **自动生成** `skills/quant-trading/my-trader/SKILL.md`。
 4.  告知用户："✅ 交易员已生成！下次只需说'加载 my-trader'。"
+
+## 📄 许可证
+
+本项目使用 GNU General Public License v3.0，详见 [LICENSE](LICENSE)。
