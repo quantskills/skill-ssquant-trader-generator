@@ -5,6 +5,12 @@ version: 1.0.0
 author: SSQuant Team
 license: GPL-3.0-only
 metadata:
+  organization: QuantSkills
+  organization_url: https://github.com/quantskills
+  repository: skill-ssquant-trader-generator
+  repository_url: https://github.com/quantskills/skill-ssquant-trader-generator
+  project_type: skill
+  collection: ssquant-trader-generator
   hermes:
     tags: [quant, trading, skill-generator, ai-trader, automation, persistent-skills]
     related_skills: [ssquant-ai-trader, writing-plans]
